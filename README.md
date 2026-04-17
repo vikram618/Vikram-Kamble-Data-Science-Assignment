@@ -93,7 +93,7 @@ To build strong fundamentals and hands-on experience in Data Science by solving 
 
 ## 👤 Author  
 
-**Tushar Kundekar** *Data Analyst | Aspiring Data Scientist 📊*  
+**Vikram Kamble** *Data Analyst | Aspiring Data Scientist 📊*  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/vikram-kamble-49a088298/))[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)]([https://github.com/vikram618](https://github.com/vikram618))  
 

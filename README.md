@@ -95,7 +95,7 @@ To build strong fundamentals and hands-on experience in Data Science by solving 
 
 **Vikram Kamble** *Data Analyst | Aspiring Data Scientist 📊*  
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/tushar-kundekar-1a99a1281/))[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)]([https://github.com/TusharKundekar](https://github.com/TusharKundekar](https://www.linkedin.com/in/vikram-kamble-49a088298/)))  
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/vikram-kamble-49a088298/))  
 
 ---
 
